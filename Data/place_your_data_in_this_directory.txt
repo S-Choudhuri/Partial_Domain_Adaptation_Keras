@@ -1,0 +1,5 @@
+place your data in this directory
+
+currently I am working with office-31 dataset.
+
+experiment with the second dataset (office home images)
